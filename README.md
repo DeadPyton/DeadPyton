@@ -1,8 +1,8 @@
 # Oiii! Eu sou o Gabriel Dantas
 
 <div>
-🏆 Formado no SESI e SENAI de Informática <br/>
-🏆 Atualmente estudando Python e C++ <br/>
+🏆 Estudante de química e apaixonado em tecnologia <br/>
+🏆 Atualmente estudando Python e C++ para aplicações em Arduino e Raspberry Pi <br/>
 🏆 Projetos baseados em Arduino e Raspberry Pi <br/>
  <br/>
 </div>
